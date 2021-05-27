@@ -6,7 +6,7 @@ flag:
   level: avoid
 defined: true
 excerpt: clumsy, foolish, unattractive, or otherwise unintelligent act or person.
-speech: adjective
+speech: adj
 alt_words:
   - ridiculous
   - clumsy

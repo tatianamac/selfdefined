@@ -6,7 +6,7 @@ flag:
   level: 'avoid'
 defined: true
 excerpt: Something which is obscenely cruel; primitive; unsophisticated. In modern day usage, you can notice this rhetoric being employed almost always for the purpose of demonizing "foreign" (more often than not from the global south) cultures.
-speech: adjective
+speech: adj
 reading:
   - text: 'is the word barbarian a slur?'
     href: https://seetobehumanityearth.wordpress.com/2015/07/16/is-the-term-barbarian-a-slur/

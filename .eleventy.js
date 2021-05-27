@@ -201,6 +201,8 @@ module.exports = function(config) {
 
   config.setLibrary('md', mdIt);
 
+  config.addPassthroughCopy('11ty/admin/config.yml');
+  config.addPassthroughCopy('11ty/admin/preview.js');
   config.addPassthroughCopy({ [`./11ty/assets/js/**/*`]: '/js' });
 
   // You can return your Config object (optional).
